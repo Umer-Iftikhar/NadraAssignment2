@@ -1,0 +1,12 @@
+# Build output
+bin/
+obj/
+[Bb]in/Publish/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Local database created at runtime
+*.db
