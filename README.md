@@ -24,4 +24,5 @@ A C# Windows Forms (.NET 8) application that models a simplified NADRA citizen d
 ## Run
 Open `NadraSystem.sln` in Visual Studio 2022 and press F5. The SQLite database (`nadra.db`) is created automatically with sample records on first run.
 
-Login: `admin` / `admin123`
+> [!NOTE]
+> Login: `admin` / `admin123`
